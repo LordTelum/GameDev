@@ -1,0 +1,3 @@
+[submodule "New Project/assets/Scripts"]
+	path = New Project/assets/Scripts
+	url = https://github.com/LordTelum/scripts.git
